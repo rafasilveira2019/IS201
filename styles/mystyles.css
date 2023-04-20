@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-image: url(https://graphicdesignjunction.com/wp-content/uploads/2014/05/001+background+pattern+designs.jpg);
+    text-align: center;
+}
+.li{
+    font-size: 20px;
+    font-style: italic;
+    color: black;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.header {
+    font-style: oblique;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hover{
+    color: maroon;
+}
+
+.center {
+    text-align: float;
+}
+
